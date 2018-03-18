@@ -1,0 +1,5 @@
+scrapy crawl wiki_links
+buscador_indexrate.py
+buscador_pagerank.py
+buscador_printData.py
+pause
